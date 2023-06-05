@@ -16,3 +16,10 @@ html {
     padding: 90px 20px 0 20px;
 }
 
+.keys {
+  background-color: #040404;
+  width: 949px;
+  height: 180px;
+  padding-left: 2px;
+}
+
